@@ -1,0 +1,7 @@
+# Provides a simple user interface that tells the developer where to go.
+color_selection.description:
+  path: 'fields/field_color_selection'
+  defaults:
+    _controller: '\Drupal\color_selection\Controller\ColorSelectionController::description'
+  requirements:
+    _permission: 'access content'

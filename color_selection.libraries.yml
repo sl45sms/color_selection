@@ -1,0 +1,10 @@
+color_selection:
+  version: 1.0
+  css:
+    theme:
+       css/vendors/spectrum.css: {}
+  js:
+    js/color_selection.js: {}
+    js/vendors/spectrum.js: {}
+  dependencies:
+    - core/jquery

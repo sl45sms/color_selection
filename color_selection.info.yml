@@ -1,0 +1,10 @@
+name: Color Selection
+type: module
+description: An implementation of a Color Selection field
+package: Field types
+core: 8.x
+
+dependencies:
+  - field
+
+
